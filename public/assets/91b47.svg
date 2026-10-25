@@ -1,0 +1,7 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="186" height="180" viewBox="0 0 186 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Facebook">
+<rect x="3" y="3" width="180" height="174" rx="27" fill="#7796ED"/>
+<rect x="3" y="3" width="180" height="174" rx="27" stroke="#05089F" stroke-width="6"/>
+<path id="Icon" d="M139.5 15H116.25C105.973 15 96.1166 18.9509 88.8496 25.9835C81.5826 33.0161 77.5 42.5544 77.5 52.5V75H54.25V105H77.5V165H108.5V105H131.75L139.5 75H108.5V52.5C108.5 50.5109 109.317 48.6032 110.77 47.1967C112.223 45.7902 114.195 45 116.25 45H139.5V15Z" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke="#1E1E1E"/>
+</g>
+</svg>
